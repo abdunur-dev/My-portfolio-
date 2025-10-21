@@ -16,8 +16,8 @@ export function Projects() {
     {
       title: "Neo Base App",
       description:
-        "Base Day 1 Challenge - Initial Base blockchain challenge project showcasing smart contract integration and decentralized application development.",
-      image: "/crypto-trading-app-dark-interface.jpg",
+        "Initial Base blockchain challenge project showcasing smart contract integration and decentralized application development.",
+      image: "/IMG_20251021_235153_290.jpg ",
       tags: ["React", "Solidity", "Base", "Ethers.js"],
       liveUrl: "https://neobaseapp.vercel.app",
       codeUrl: "https://github.com/abdunur-dev/Base-day1-challeng",
