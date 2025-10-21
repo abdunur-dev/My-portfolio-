@@ -11,7 +11,6 @@ export const metadata: Metadata = {
   title: "abdu{dev} - Web3 & Full-Stack Developer",
   description:
     "Web3 & Full-stack developer crafting decentralized applications and modern web experiences. Specializing in blockchain technology, smart contracts, React, Next.js, and TypeScript.",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
