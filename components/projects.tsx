@@ -34,8 +34,8 @@ export function Projects() {
     {
       title: "VarilHub Mini App",
       description:
-        "Base Day 6 Challenge - A comprehensive hub for managing decentralized applications with modern UI and seamless integration.",
-      image: "/crypto-trading-app-dark-interface.jpg",
+        "A comprehensive hub for managing decentralized applications with modern UI and seamless integration and also it have a game to interact or to entertainment with mini app.",
+      image: "/IMG_20251021_235145_867.jpg",
       tags: ["Next.js", "TypeScript", "Base", "DApp"],
       liveUrl: "https://varil-hub-miniapp.vercel.app",
       codeUrl: "https://github.com/abdunur-dev/Day-6-base-challenge-",
