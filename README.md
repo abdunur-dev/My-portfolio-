@@ -64,7 +64,7 @@ Clone and run your own version of this portfolio locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/abdunur-dev/My-portfolio-.git
 
 # Go to project folder
 cd portfolio
