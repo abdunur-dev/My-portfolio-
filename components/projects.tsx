@@ -7,8 +7,8 @@ export function Projects() {
     {
       title: "BaseLink App",
       description:
-        "Base Day 2 Challenge - A comprehensive blockchain application built on Base network with modern UI and seamless user experience.",
-      image: "/blockchain-dashboard-dark-theme.jpg",
+        " A comprehensive blockchain application built on Base network with modern UI and seamless user experience. It also showing your real time ETH balance by only Connect Ur wallet.",
+      image: "/IMG_20251021_235155_188.jpg",
       tags: ["Next.js", "Base", "Web3", "TypeScript"],
       liveUrl: "https://baselink-app.vercel.app",
       codeUrl: "https://github.com/abdunur-dev/Base-day-2-challeng",
