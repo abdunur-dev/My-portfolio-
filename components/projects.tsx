@@ -43,7 +43,7 @@ export function Projects() {
     {
       title: "My person portfolio",
       description:
-        "It have To showing my skills and if u need to contact me also if u need to build this portfolio u can accessed it than build.",
+        "This very site — built to showcase my skills and projects. You’re welcome to explore or even clone it to build your own.",
       image: "/IMG_20251021_203857_242.jpg",
       tags: ["React", "Web3", "TypeScript", "Blockchain"],
       liveUrl: "https://abdudevapp.vercel.app/",
