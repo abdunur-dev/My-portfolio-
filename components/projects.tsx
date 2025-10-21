@@ -47,7 +47,7 @@ export function Projects() {
       image: "/IMG_20251021_203857_242.jpg",
       tags: ["React", "Web3", "TypeScript", "Blockchain"],
       liveUrl: "https://abdudevapp.vercel.app/",
-      codeUrl: "https://github.com/abdunur-dev/VarilHub",
+      codeUrl: "https://github.com/abdunur-dev/My-portfolio-.git",
     },
     {
       title: "Salah Apologetics",
