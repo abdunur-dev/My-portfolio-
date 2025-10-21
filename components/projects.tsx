@@ -23,10 +23,10 @@ export function Projects() {
       codeUrl: "https://github.com/abdunur-dev/Base-day1-challeng",
     },
     {
-      title: "BaseDrop Mini App",
+      title: "NFT Socal Sell",
       description:
-        "Base Day 5 Challenge - A decentralized airdrop platform built on Base network with token distribution and claim functionality.",
-      image: "/blockchain-dashboard-dark-theme.jpg",
+        " A decentralized airdrop platform built on Base network with NFT buying method and claim functionality.",
+      image: "/IMG_20251021_235147_091.jpg ",
       tags: ["Next.js", "Base", "Smart Contracts", "Web3"],
       liveUrl: "https://basedrop-miniapp.vercel.app",
       codeUrl: "https://github.com/abdunur-dev/Base-dapp-day-5-challenge",
