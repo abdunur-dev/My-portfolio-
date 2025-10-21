@@ -41,12 +41,12 @@ export function Projects() {
       codeUrl: "https://github.com/abdunur-dev/Day-6-base-challenge-",
     },
     {
-      title: "VarilHub",
+      title: "My person portfolio",
       description:
-        "A decentralized application hub providing tools and resources for Web3 developers and blockchain enthusiasts.",
-      image: "/blockchain-dashboard-dark-theme.jpg",
+        "It have To showing my skills and if u need to contact me also if u need to build this portfolio u can accessed it than build.",
+      image: "/IMG_20251021_203857_242.jpg",
       tags: ["React", "Web3", "TypeScript", "Blockchain"],
-      liveUrl: "#",
+      liveUrl: "https://abdudevapp.vercel.app/",
       codeUrl: "https://github.com/abdunur-dev/VarilHub",
     },
     {
