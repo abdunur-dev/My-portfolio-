@@ -52,9 +52,9 @@ export function Projects() {
     {
       title: "Salah Apologetics",
       description:
-        "A comprehensive Islamic resource platform providing educational content, prayer times, and community engagement features.",
-      image: "/islamic-architecture-modern-design.jpg",
-      tags: ["Next.js", "TypeScript", "Tailwind", "API Integration"],
+        "A comprehensive Islamic resource platform providing educational content, Some articles, and community engagement features.",
+      image: "/IMG_20251021_235148_680.jpg ",
+      tags: ["HTML", "CSS", "JAVASCRIPT", "FIREBASE INTEGRATION"],
       liveUrl: "https://salahapologetics.com",
       codeUrl: null, // No GitHub for this project
     },
