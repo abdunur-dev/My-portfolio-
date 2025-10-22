@@ -58,6 +58,16 @@ export function Projects() {
       liveUrl: "https://salahapologetics.com",
       codeUrl: null, // No GitHub for this project
     },
+
+  {
+      title: "Tibeb Chain",
+      description:
+        "#TChain is a decentralized NFT marketplace that empowers African artists to upload, sell, and trade digital art with low fees and full control over their work.",
+      image: "/IMG_20251021_235148_680.jpg ",
+      tags: ["Typescript", "Talwind Css", "Base", "Wagmi"],
+      liveUrl: "https://tibebnft.vercel.app/",
+      codeUrl: "https://github.com/abdunur-dev/TibebChain-Nft.git",
+    },  
   ]
 
   return (
